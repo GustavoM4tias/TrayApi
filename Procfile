@@ -1,1 +1,1 @@
-web: dotnet ApiMegev.dll
+web: dotnet run --project ApiMegev/ApiMegev.csproj
